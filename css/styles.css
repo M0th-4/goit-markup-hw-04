@@ -305,6 +305,7 @@ margin-bottom: 8px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         text-align: center;
+        margin-bottom: 8px;
         color: #434455;
 }
 
@@ -317,7 +318,6 @@ margin-bottom: 8px;
 .workers-icon-item {
     width: 40px;
     height: 40px;
-    margin-top: 8px;
         transition: transform 250ms;
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
